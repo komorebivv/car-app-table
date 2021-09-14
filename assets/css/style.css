@@ -1,8 +1,8 @@
 body {
-background-image: url("../img/carbackground.jpg") !important;
-background-size: cover;
-background-attachment: fixed;
-align-content: center;
+    background-image: url("../img/carbackground.jpg") !important;
+    background-size: cover;
+    background-attachment: fixed;
+    align-content: center;
 }
 
 h1 {
