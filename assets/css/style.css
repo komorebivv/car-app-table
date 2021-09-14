@@ -1,0 +1,43 @@
+body {
+background-image: url("../img/carbackground.jpg") !important;
+background-size: cover;
+background-attachment: fixed;
+align-content: center;
+}
+
+h1 {
+    font-size: 100px !important;
+    font-family: 'Megrim', cursive;
+    color: #e8f27d;
+}
+
+h5 {
+    color: black;
+}
+
+.table-bordered {
+    border-color: #e8f27d;
+}
+
+label {
+    color: black;
+    display: flex !important;
+}
+
+i {
+    cursor: pointer;
+    padding: 4px;
+}
+
+.brandName, .modelName {
+    text-transform: uppercase;
+}
+
+td {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+
+
+
